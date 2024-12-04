@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>118 50</title>
+    <author>bluf4655</author>
+    <copyright>118 50 2024</copyright>
+    <description>tvåspråkig läderpodd sv/en</description>
+    <language>sv-se</language>
+    <pubDate>Fri, 4 Dec 2024 12:00:00 CEST</pubDate>
+    <link>https://github.com/11850/11850.github.io/raw/refs/heads/main/rss.xml</link>
+
+    <image>
+      <url>https://github.com/11850/11850.github.io/raw/refs/heads/main/img/11850.jpg</url>
+      <title>118 50</title>
+      <link>https://github.com/11850/11850.github.io/raw/refs/heads/main/img/</link>
+    </image>
+
+    <googleplay:author>bluf4655</googleplay:author>
+    <googleplay:image href="https://github.com/11850/11850.github.io/raw/refs/heads/main/img/11850.jpg"/>
+
+    <itunes:author>bluf4655</itunes:author>
+    <itunes:email>11850pod@gmail.com</itunes:email>
+    <itunes:category text="Relationships" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://github.com/11850/11850.github.io/raw/refs/heads/main/img/11850.jpg"/>
+    <itunes:owner>
+      <itunes:name>bluf4655</itunes:name>
+      <itunes:email>11850pod@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>leather,lgbt</itunes:keywords>
+
+    <item>
+      <title>001 sv snaxrubb89</title>
+      <author>bluf4655</author>
+      <pubDate>Fri, 4 Dec 2024 12:00:00 CEST</pubDate>
+      <enclosure url="https://github.com/11850/11850.github.io/raw/refs/heads/main/episodes/001.mp3" type="audio/mpeg" length="29170330"/>
+      <guid isPermaLink="false">ep001</guid>
+      <description>https://www.instagram.com/11850pod/</description>
+
+      <itunes:author>bluf4655</itunes:author>
+      <itunes:duration>39:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://github.com/11850/11850.github.io/raw/refs/heads/main/img/001.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
