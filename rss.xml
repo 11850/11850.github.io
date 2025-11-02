@@ -79,5 +79,22 @@
       <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
     </item>
+
+    <item>
+      <title>004 en tiskinalle</title>
+      <author>bluf4655</author>
+      <pubDate>Sun, 02 Nov 2025 22:30:00 CEST</pubDate>
+      <enclosure url="https://github.com/11850/11850.github.io/raw/refs/heads/main/episodes/004.mp3" type="audio/mpeg" length="40491932"/>
+      <guid isPermaLink="false">ep004</guid>
+      <description>homotekno, helsinki, tom of finland</description>
+
+      <itunes:author>bluf4655</itunes:author>
+      <itunes:duration>57:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://github.com/11850/11850.github.io/raw/refs/heads/main/img/004.jpg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
   </channel>
 </rss>

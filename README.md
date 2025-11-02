@@ -4,6 +4,10 @@ tvåspråkig läderpodd sv/en
 
 [instagram](https://www.instagram.com/11850pod/)
 
+## [004 en tiskinalle](https://github.com/11850/11850.github.io/raw/refs/heads/main/episodes/004.mp3)
+
+homotekno, helsinki, tom of finland
+
 ## [003 sv mons.simia](https://github.com/11850/11850.github.io/raw/refs/heads/main/episodes/003.mp3)
 
 stockholm leather social, drag, transmaskulinitet
